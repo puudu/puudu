@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://ldonoso-portfolio.vercel.app/](https://ldonoso-portfolio.vercel.app/)
 
-- 📫 How to reach me **luisdonosoaceiton@gmail.com**
+- 📫 How to reach me **luispdonoso.a@hotmail.com**
 <h3 align="left">
 	Languages and Tools:
 </h3>
