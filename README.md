@@ -4,8 +4,6 @@
 <h3 align="center">
 	Analyst Programmer, Web Developer, Video Game Developer
 </h3
-  
-- 🌱 I’m currently learning **nodeJS, express, mongoDB**
 
 - 👨‍💻 All of my projects are available at [https://ldonoso-portfolio.vercel.app/](https://ldonoso-portfolio.vercel.app/)
 
